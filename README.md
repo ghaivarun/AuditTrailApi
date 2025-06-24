@@ -123,7 +123,7 @@ AuditTrailApi/
 
 **Varun Ghai**  
 .NET Full Stack Developer  
-📧 Varunghai922@example.com  
+📧 Varunghai922@gmail.com  
 
 ---
 
