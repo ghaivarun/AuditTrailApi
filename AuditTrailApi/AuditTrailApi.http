@@ -1,0 +1,6 @@
+@AuditTrailApi_HostAddress = http://localhost:5085
+
+GET {{AuditTrailApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
